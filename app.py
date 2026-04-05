@@ -8,7 +8,7 @@ from sklearn.linear_model import LogisticRegression
 # LOAD DATA FROM GITHUB (FIXED)
 # -------------------------------
 data = pd.read_csv(
-    "https://raw.githubusercontent.com/YOUR-USERNAME/fake-news-detector/main/train.csv",
+    "https://raw.githubusercontent.com/saniyadhawade/fake-news-detector/main/train.csv",
     encoding="latin1"
 )
 
